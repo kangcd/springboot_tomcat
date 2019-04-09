@@ -46,7 +46,7 @@
     </dependencies>
 
     <build>
-        <finalName>springboot_tomcat</finalName>
+        <finalName>demo</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
